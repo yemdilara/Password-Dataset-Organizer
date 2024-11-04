@@ -27,7 +27,7 @@ This repository contains a project for organizing, indexing, and searching a dat
    - When saving passwords to files, create a new file in the same folder if the current one exceeds 10,000 passwords.
 
 5. **Case Sensitivity and Preventing Duplicates:**
-   - Consider case sensitivity when indexing passwords and prevent the same password from being recorded multiple times.
+   - Consider case sensitivity when indexing passwords and prevent the same password from being recorded multiple times
 
 ### Search Function
 6. **Password Search:**
